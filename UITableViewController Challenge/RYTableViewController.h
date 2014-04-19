@@ -1,5 +1,5 @@
 //
-//  RYViewController.h
+//  RYTableViewController.h
 //  UITableViewController Challenge
 //
 //  Created by Robert Young on 19/04/2014.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RYViewController : UIViewController
+@interface RYTableViewController : UITableViewController
 
 @end
